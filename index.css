@@ -1,0 +1,31 @@
+.wrapper {
+    width: 502px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 502px;
+    justify-content: space-between;
+    color: white;
+}
+.red{
+    background: #900;
+    width: 251px;
+    height: 251px;
+    text-align: center;
+}
+.green{
+    background: #090;
+    width: 251px;
+    height: 251px;
+    text-align: center;
+
+}
+.blue{
+    background: #009;
+    width: 251px;
+    height: 502px;
+    text-align: center;
+}
+.dashboard{
+    display: none;
+}
